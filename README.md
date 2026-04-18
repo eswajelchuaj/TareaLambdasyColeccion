@@ -29,11 +29,19 @@ Este proyecto consiste de 10 métodos:
 Instrucciones para una instalación y ejecución correcta:
 1. Hacer click en <>Code y después en Download ZIP.
 2. Una vez descargado el ZIP, hacer click derecho al ZIP y pulsar "Extraer en "Nombre de ZIP".
-3. Buscar la carpeta com, hacer click derecho en la carpeta y abrir con IntelliJ.
-4. Las clases se encontraran dentro del folder example.tarealambdas, ya una vez dentro de intelliJ es cuestion de mostrar la clase Main y ejecutar el código.
+3. Buscar la carpeta "com", hacer click derecho en la carpeta "com" y seleccionar "abrir con IntelliJ".
+4. Dentro de intelliJ, las clases (Main, EjerciciosNumeros, EjerciciosString) se encontraran dentro del folder example.tarealambdas
+(Mas que "ejercicios", sería algo como MetodosNumeros y MetodosString)
 
 Ejemplo de salida:
-Ejercicio 1 (Multiplicando por 2)
-Original: 1 2 3
-Modificado: 2 4 6
-Caso extremo: null
+Ejercicio #
+(Se imprime el array o hash original)
+(Se imprime el array o hash modificado acorde al ejercicio)
+(Se imprime lo que sucederia con un array o hash nulo)
+--------
+Ejercicio #
+(Se imprime el array o hash original)
+(Se imprime el array o hash modificado acorde al ejercicio)
+(Se imprime lo que sucederia con un array o hash nulo)
+
+Y asi hasta el ejercicio 10
