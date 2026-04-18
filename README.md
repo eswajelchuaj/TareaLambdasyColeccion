@@ -25,3 +25,15 @@ Este proyecto consiste de 10 métodos:
    Este método recibe una frase completa, la fragmenta en palabras individuales y filtra las que son muy cortas para convertirlas a minúsculas y asegurar que no haya repetidas usando un HashSet. 
 10. El Tope de Frecuencias
    Es un método que recibe un HashMap de frecuencias y un valor máximo; revisa todos los valores del mapa y, si alguno supera el límite definido, lo recorta exactamente a ese número tope.
+
+Instrucciones para una instalación y ejecución correcta:
+1. Hacer click en <>Code y después en Download ZIP.
+2. Una vez descargado el ZIP, hacer click derecho al ZIP y pulsar "Extraer en "Nombre de ZIP".
+3. Buscar la carpeta com, hacer click derecho en la carpeta y abrir con IntelliJ.
+4. Las clases se encontraran dentro del folder example.tarealambdas, ya una vez dentro de intelliJ es cuestion de mostrar la clase Main y ejecutar el código.
+
+Ejemplo de salida:
+Ejercicio 1 (Multiplicando por 2)
+Original: 1 2 3
+Modificado: 2 4 6
+Caso extremo: null
