@@ -1,6 +1,6 @@
 # Tarea de Lambdas y Clases de Coleccion
 
-En este proyecto, se estarán realizando ejercicios/métodos con el enfoque principal siendo la familiarizacion con la estructura de las lambdas y ---.
+En este proyecto, se estarán realizando ejercicios/métodos con el enfoque principal siendo la familiarizacion con la estructura de las Lambdas, HashMaps y HashSets.
 
 Este proyecto consiste de 10 métodos:
 1. El Mulitplicador:
