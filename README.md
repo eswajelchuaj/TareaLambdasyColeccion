@@ -31,7 +31,6 @@ Instrucciones para una instalación y ejecución correcta:
 2. Una vez descargado el ZIP, hacer click derecho al ZIP y pulsar "Extraer en "Nombre de ZIP".
 3. Abrir la carpeta extraida y buscar la carpeta "com", hacer click derecho en la carpeta "com" y seleccionar "abrir con IntelliJ".
 4. Dentro de intelliJ, las clases (Main, EjerciciosNumeros, EjerciciosString) se encontraran dentro del folder example.tarealambdas
-Mas que "ejercicios", sería algo como MetodosNumeros y MetodosString
 
 Ejemplo de salida:
 Ejercicio #
